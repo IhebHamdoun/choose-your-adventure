@@ -7,5 +7,5 @@ The scratches on the inner frame seem made by a blunt object — perhaps a shoe 
 Outside, faint footprints lead away into the **manor gardens**.
 
 * [Follow the footprints into the garden](scene-garden.md)
-* [Stay inside and set a trap for the intruder](scene-trap.md)
+* [Stay inside and examine more items inside the study](scene-study.md)
 
