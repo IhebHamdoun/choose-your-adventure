@@ -1,38 +1,30 @@
-START: start.md
-│
-├──→ Examine body and crime scene → scene-study.md
-│   │
-│   ├──→ Check window → scene-window.md
-│   │   ├──→ Follow trail → scene-garden.md
-│   │   │   ├──→ Check cufflink → scene-cufflink.md
-│   │   │   └──→ Match fabric → scene-fabric.md
-│   │
-│   └──→ Examine wine → scene-wine.md
-│       ├──→ Search medicine cabinets → scene-medicine.md
-│       │   ├──→ Investigate if planted → scene-servants.md
-│       └──→ Talk to housekeeper → scene-housekeeper.md
-│           └──→ Ask more questions → scene-housekeeper2.md
-│
-├──→ Interview the guests → scene-interviews.md
-│   ├──→ Lady Cassandra → scene-cassandra.md
-│   │   ├──→ Check library → scene-library.md
-│   │   │   └──→ Stakeout → scene-trap.md
-│   │   │       └──→ Cassandra confesses → scene-confession.md
-│   │   │           ├──→ Believe her → ending-true.md
-│   │   │           └──→ Arrest her → ending-cassandra.md
-│   │   └──→ Accuse Cassandra → ending-cassandra.md
-│   │
-│   └──→ Mr. Doyle → scene-doyle.md
-│       ├──→ Check billiards room → scene-billiards.md
-│       ├──→ Check financial ledger → scene-ledger.md
-│       └──→ Press Doyle again → scene-doyle-2.md
-│
-├──→ Search Doyle’s belongings → scene-suitcase.md
-│   ├──→ Cufflink + digitalis + ledger = Proof
-│   ├──→ Confront Doyle → ending-doyle.md
-│   └──→ Final reveal with all guests → ending-true.md
-│
-└──→ Set a trap → scene-trap.md
-    └──→ Catches Cassandra snooping → scene-confession.md
-        ├──→ Believe her → ending-true.md
-        └──→ Arrest her → ending-cassandra.md
+The Arrival [start.md]
+   ├──> Examine the body [scene-study.md]
+   │      ├──> Check the window [scene-window.md]
+   │      │      ├──> Follow footprints [scene-garden.md]
+   │      │      │      ├──> Return to study [scene-study.md]
+   │      │      │      └──> Return to interviews [scene-interviews.md]
+   │      │      └──> Return to study [scene-study.md]
+   │      └──> Examine wine glass [scene-wine.md]
+   │             ├──> Search for vials [scene-medicine.md]
+   │             │      ├──> Arrest Cassandra [ending-cassandra.md]
+   │             │      └──> Return to study [scene-study.md]
+   │             └──> Return to library [scene-library.md]
+   │                    ├──> Return to Cassandra [scene-cassandra.md]
+   │                    └──> Return to wine investigation [scene-wine.md]
+   │
+   └──> Interview guests [scene-interviews.md]
+          ├──> Talk to Cassandra [scene-cassandra.md]
+          │      ├──> Arrest Cassandra [ending-cassandra.md]
+          │      └──> Check the library [scene-library.md]
+          │             ├──> Return to Cassandra [scene-cassandra.md]
+          │             └──> Return to wine investigation [scene-wine.md]
+          │
+          └──> Talk to Doyle [scene-doyle.md]
+                 ├──> Inspect billiards room [scene-billiards.md]
+                 │      ├──> Search Doyle’s suitcase [scene-suitcase.md]
+                 │      │      ├──> Confront Doyle [ending-doyle.md]
+                 │      │      └──> Final reveal [ending-true.md]
+                 │      └──> Return to Doyle [scene-doyle.md]
+                 └──> Return to interviews [scene-interviews.md]
+
