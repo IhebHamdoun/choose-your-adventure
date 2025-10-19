@@ -5,5 +5,5 @@ You quietly search the guest rooms. In **Lady Cassandra’s** private bathroom, 
 The label is faded. No prescription. No identification. A poor hiding spot, or a setup?
 
 * [Confront her directly with this evidence](ending-cassandra.md)
-* [Check if someone else could have planted it there](scene-servants.md)
+* [Return to study scene](scene-study.md)
 
