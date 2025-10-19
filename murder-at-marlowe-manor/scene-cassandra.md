@@ -8,6 +8,7 @@ Her black gloves, you note, are speckled with **mud**.
 
 Her alibi is shaky at best. Her demeanor seems less of sorrow, and more of strategy.
 
+
 * [Confront her about the mud and inconsistencies](ending-cassandra.md)
 * [Check the library for signs she was really there](scene-library.md)
 
