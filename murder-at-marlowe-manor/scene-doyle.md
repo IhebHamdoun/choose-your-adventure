@@ -7,4 +7,4 @@ No one saw him there. You recall seeing no recent chalk marks on the cues either
 You also remember Sir Reginald mentioned Doyle was under **investigation for embezzlement**.
 
 * [Inspect the billiards room for signs of truth](./scene-billiards.md)
-* [Search Sir Reginald’s office for financial records](./scene-ledger.md)
+* [Return to interviews](./scene-interviews.md) 
